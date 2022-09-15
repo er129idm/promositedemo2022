@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Nunito:wght@200;400;700&display=swap');
+
+body {
+  background-color: pink;
+  font-family: 'Nunito', sans-serif;
+}
+
+p {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+#header {
+  background-color: red;
+  color: white;
+  padding: 15px;
+  text-shadow: 3px 5px 2px #474747, 6px 2px 8px rgba(206,89,55,0);
+}
+
+.specialPara {
+  text-decoration: underline;
+  color: #ff0072;
+}
+
+.wordHighlight {
+  background-color: #ff0072;
+}
